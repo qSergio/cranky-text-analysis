@@ -5,6 +5,7 @@ __pycache__/
 *.csv
 *.json
 *.DS_Store
+*.xlsx
 
 # C extensions
 *.so
