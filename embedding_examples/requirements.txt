@@ -1,0 +1,8 @@
+tensorflow==2.5.0
+gensim==3.8.3
+nltk
+numpy
+pandas
+scikit-learn
+tqdm
+openpyxl
